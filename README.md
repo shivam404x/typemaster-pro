@@ -1,8 +1,8 @@
 # 🚀 TypeMaster PRO — Next-Gen Touch Typing Arena & 15-Game Arcade
 
-<p align="center">
+<!-- <p align="center">
   <img src="public/vite.svg" width="80" height="80" alt="TypeMaster Pro Logo" />
-</p>
+</p> -->
 
 <p align="center">
   <strong>Master touch typing, race AI Ghost rivals, write code with speech-to-type, play 15 arcade typing games, and earn official verified typing certificates.</strong>
@@ -122,5 +122,3 @@
 
 ---
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
